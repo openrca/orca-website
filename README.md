@@ -4,7 +4,7 @@ This repository contains the source code for the [openrca.io](https://openrca.io
 
 The website is built using [Hugo](https://gohugo.io) static site generator and is currently hosted
 on Github pages. The full rendered version of the static content is available in the
-[openrca.github.io](https://openrca/openrca.github.io) repository.
+[openrca.github.io](https://github.com/openrca/openrca.github.io) repository.
 
 ## Setup
 
