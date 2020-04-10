@@ -61,7 +61,7 @@ github_repo = "https://github.com/openrca.orca"
 github_project_repo = "https://github.com/openrca/orca"
 
 algolia_docsearch = false
-offlineSearch = false
+offlineSearch = true
 
 [params.ui]
 sidebar_menu_compact = false
