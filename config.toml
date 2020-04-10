@@ -19,29 +19,29 @@ pygmentsUseClassic = false
 pygmentsStyle = "tango"
 
 [permalinks]
-blog = "/:section/:year/:month/:day/:slug/"
+  blog = "/:section/:year/:month/:day/:slug/"
 
 [blackfriday]
-plainIDAnchors = true
-hrefTargetBlank = true
-angledQuotes = false
-latexDashes = true
+  plainIDAnchors = true
+  hrefTargetBlank = true
+  angledQuotes = false
+  latexDashes = true
 
 [imaging]
-resampleFilter = "CatmullRom"
-quality = 75
-anchor = "smart"
+  resampleFilter = "CatmullRom"
+  quality = 75
+  anchor = "smart"
 
 [services]
-[services.googleAnalytics]
-id = "UA-00000000-0"
+  [services.googleAnalytics]
+    id = "UA-00000000-0"
 
 [languages]
-[languages.en]
-title = "Open RCA"
-description = "Root Cause Analysis for Kubernetes"
-languageName ="English"
-weight = 1
+  [languages.en]
+    title = "Open RCA"
+    description = "Root Cause Analysis for Kubernetes"
+    languageName ="English"
+    weight = 1
 
 [markup]
   [markup.goldmark]
@@ -49,42 +49,42 @@ weight = 1
       unsafe = true
 
 [menu]
-[[menu.main]]
-name = "GitHub"
-weight = -99
-url = "https://github.com/openrca"
+  [[menu.main]]
+    name = "GitHub"
+    weight = -99
+    url = "https://github.com/openrca"
 
 [params]
-copyright = "Open RCA Authors"
-privacy_policy = "https://policies.google.com/privacy"
+  copyright = "Open RCA Authors"
+  privacy_policy = "https://policies.google.com/privacy"
 
-version_menu = "Releases"
-archived_version = false
-version = "0.1"
-url_latest_version = "https://openrca.io"
+  version_menu = "Releases"
+  archived_version = false
+  version = "0.1"
+  url_latest_version = "https://openrca.io"
 
-github_repo = "https://github.com/openrca.orca"
-github_project_repo = "https://github.com/openrca/orca"
+  github_repo = "https://github.com/openrca.orca"
+  github_project_repo = "https://github.com/openrca/orca"
 
-algolia_docsearch = false
-offlineSearch = true
+  algolia_docsearch = false
+  offlineSearch = true
 
-[params.ui]
-sidebar_menu_compact = false
-breadcrumb_disable = false
-sidebar_search_disable = true
-navbar_logo = false
-footer_about_disable = false
+  [params.ui]
+    sidebar_menu_compact = false
+    breadcrumb_disable = false
+    sidebar_search_disable = true
+    navbar_logo = false
+    footer_about_disable = false
 
-[params.ui.feedback]
-enable = false
+    [params.ui.feedback]
+      enable = false
 
-[params.ui.readingtime]
-enable = true
+    [params.ui.readingtime]
+      enable = true
 
-[params.links]
-[[params.links.developer]]
-	name = "GitHub"
-	url = "https://github.com/openrca/orca"
-	icon = "fab fa-github"
-        desc = "Development takes place here!"
+  [params.links]
+    [[params.links.developer]]
+      name = "GitHub"
+      url = "https://github.com/openrca/orca"
+      icon = "fab fa-github"
+      desc = "Development takes place here!"
