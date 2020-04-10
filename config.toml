@@ -48,6 +48,12 @@ weight = 1
     [markup.goldmark.renderer]
       unsafe = true
 
+[menu]
+[[menu.main]]
+name = "GitHub"
+weight = -99
+url = "https://github.com/openrca"
+
 [params]
 copyright = "Open RCA Authors"
 privacy_policy = "https://policies.google.com/privacy"
