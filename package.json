@@ -1,7 +1,7 @@
 {
   "name": "orca-website",
   "version": "0.1.0",
-  "description": "Open RCA Website",
+  "description": "OpenRCA Website",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^9.7.6",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/openrca/orca-website.git"
   },
-  "author": "Open RCA Authors",
+  "author": "OpenRCA Authors",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/openrca/orca-website/issues"

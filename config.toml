@@ -1,6 +1,6 @@
 baseURL = "https://openrca.io/"
 languageCode = "en-us"
-title = "Open RCA"
+title = "OpenRCA"
 theme = "docsy"
 
 enableRobotsTXT = true
@@ -38,7 +38,7 @@ pygmentsStyle = "tango"
 
 [languages]
   [languages.en]
-    title = "Open RCA"
+    title = "OpenRCA"
     description = "Root Cause Analysis for Kubernetes"
     languageName ="English"
     weight = 1
@@ -55,7 +55,7 @@ pygmentsStyle = "tango"
     url = "https://github.com/openrca"
 
 [params]
-  copyright = "Open RCA Authors"
+  copyright = "OpenRCA Authors"
   privacy_policy = "https://policies.google.com/privacy"
 
   version_menu = "Releases"

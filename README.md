@@ -1,4 +1,4 @@
-# Open RCA Website
+# OpenRCA Website
 
 This repository contains the source code for the [openrca.io](https://openrca.io) website.
 
