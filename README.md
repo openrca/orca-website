@@ -29,7 +29,7 @@ $ git submodule update --init --recursive
 Run Hugo server:
 
 ```bash
-$ hugo serve
+$ hugo serve -s ./src -d ../public
 ```
 
 ## Deployment

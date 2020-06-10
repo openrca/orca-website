@@ -1,5 +1,5 @@
 [submodule "themes/docsy"]
-	path = themes/docsy
+	path = src/themes/docsy
 	url = https://github.com/google/docsy.git
 [submodule "public"]
 	path = public
